@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">FunnyShader</string>
+    <string name="request_camera_permission">Camera permission required</string>
+    <string name="request_storage_permission">Storage permission required</string>
+    <string name="request_sound_permission">requires recording permission</string>
+
+
 </resources>
